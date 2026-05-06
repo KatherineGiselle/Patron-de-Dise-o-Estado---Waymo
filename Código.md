@@ -754,3 +754,24 @@ namespace WaymoPatronDiseñoEstado
 }
 
 ````
+
+## Carro apagado
+<img width="1323" height="511" alt="image" src="https://github.com/user-attachments/assets/e195116a-b8e4-4564-bad4-ac164c64cb61" />
+
+## Frenado
+<img width="1329" height="481" alt="image" src="https://github.com/user-attachments/assets/0e1e479a-6158-4ed9-9489-88a7ce25adbc" />
+## Alto
+<img width="1315" height="481" alt="image" src="https://github.com/user-attachments/assets/b1bc64e4-9bbd-423d-9064-5aafbb494fe6" />
+## Peaton cruzando
+<img width="1316" height="448" alt="image" src="https://github.com/user-attachments/assets/a6630e02-8dd7-4d71-9cee-80cd0718b727" />
+## Detecta obstaculo
+<img width="1317" height="440" alt="image" src="https://github.com/user-attachments/assets/916ace68-02d7-4af3-ace9-53140b48be86" />
+## Cambia de carril
+<img width="1312" height="474" alt="image" src="https://github.com/user-attachments/assets/0907b74f-2c70-4a73-ab33-08db5c0d4819" />
+## Destino alcanzado
+<img width="743" height="455" alt="image" src="https://github.com/user-attachments/assets/f6bb9949-8699-491a-a7f6-c8605e0fdf13" />
+
+
+## Historial de recorrido
+<img width="192" height="325" alt="image" src="https://github.com/user-attachments/assets/a20877df-a622-4511-8e18-eb943cb53827" />
+
