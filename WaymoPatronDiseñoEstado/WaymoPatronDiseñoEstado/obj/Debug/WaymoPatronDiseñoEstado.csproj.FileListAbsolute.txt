@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.Form1.resources
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\bin\Debug\WaymoPatronDiseñoEstado.exe.config
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\bin\Debug\WaymoPatronDiseñoEstado.exe
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\bin\Debug\WaymoPatronDiseñoEstado.pdb
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.exe
+C:\Users\Usuario\source\repos\WaymoPatronDiseñoEstado\WaymoPatronDiseñoEstado\obj\Debug\WaymoPatronDiseñoEstado.pdb
