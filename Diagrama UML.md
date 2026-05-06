@@ -1,30 +1,42 @@
 ````mermaid
 classDiagram
 
-class Form1 {
-    +velocidad
-    +ActualizarEstado()
-    +CambiarCarril()
-}
-
 class Carro {
     -IEstadoCarro estado
-    +SetEstado()
-    +Manejar()
+    +SetEstado(IEstadoCarro estado)
+    +Manejar(Form1 form)
 }
 
 class IEstadoCarro {
     <<interface>>
-    +Manejar(Carro, Form1)
+    +Manejar(Carro carro, Form1 form)
 }
 
-Form1 --> Carro
-Carro --> IEstadoCarro
+class Apagado
+class Encendido
+class EnRuta
+class DetectandoObstaculo
+class CambioCarril
+class Frenando
+class Bateria
+class Destino
+class Alto
+class Emergencia
+class Peaton
+class Semaforo
 
-IEstadoCarro <|.. EnRuta
-IEstadoCarro <|.. Frenando
-IEstadoCarro <|.. CambioCarril
-IEstadoCarro <|.. DetectandoObstaculo
 IEstadoCarro <|.. Apagado
 IEstadoCarro <|.. Encendido
+IEstadoCarro <|.. EnRuta
+IEstadoCarro <|.. DetectandoObstaculo
+IEstadoCarro <|.. CambioCarril
+IEstadoCarro <|.. Frenando
+IEstadoCarro <|.. Bateria
+IEstadoCarro <|.. Destino
+IEstadoCarro <|.. Alto
+IEstadoCarro <|.. Emergencia
+IEstadoCarro <|.. Peaton
+IEstadoCarro <|.. Semaforo
+
+Carro --> IEstadoCarro : usa
 ````
