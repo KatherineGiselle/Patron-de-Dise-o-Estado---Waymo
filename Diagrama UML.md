@@ -1,3 +1,4 @@
+````mermaid
 classDiagram
 
 class Form1 {
@@ -26,3 +27,4 @@ IEstadoCarro <|.. CambioCarril
 IEstadoCarro <|.. DetectandoObstaculo
 IEstadoCarro <|.. Apagado
 IEstadoCarro <|.. Encendido
+````
